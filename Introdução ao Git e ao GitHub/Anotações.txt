@@ -1,0 +1,7 @@
+# Entendendo o que é Git e sua importância
+- Foi criado em 2005, por Linus Torvalds
+- É um sistema de versionamento de código distribuído
+- Git $\ne$ GitHub
+
+# Realizando a instalação do GIT
+Baixar pelo site: https://git-scm.com/
